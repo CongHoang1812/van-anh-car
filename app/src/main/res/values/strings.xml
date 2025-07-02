@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Authenticate user and pass</string>
+    <string name="facebook_app_id">facebook app id</string>
+    <string name="facebook_app_id_2">1296824728701590</string>
+    <string name="facebook_client_token">1296824728701590|dd0cd1955aa4f38fc460e9704031d259</string>
+    <string name="fb_login_protocol_scheme">fb1296824728701590</string>
+
+</resources>
